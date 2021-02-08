@@ -8,6 +8,5 @@ greeting
 greeting
 greeting
 
-end
 IRB
 6 + 3
